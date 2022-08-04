@@ -5,7 +5,7 @@ namespace Chargepoint\RoxUsage;
 use Rox\Server\Flags\RoxFlag;
 
 
-class Container
+class RoxContainer
 {
     /** @var RoxFlag */
     public $thisIsATestFlag;

@@ -4,7 +4,7 @@ namespace Chargepoint\RoxUsage;
 
 class App
 {
-    /** @var Container */
+    /** @var RoxContainer */
     private $roxContainer;
 
     /** @var Cli */
