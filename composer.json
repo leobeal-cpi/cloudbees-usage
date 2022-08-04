@@ -1,0 +1,17 @@
+{
+    "name": "chargepoint/rox-usage",
+    "autoload": {
+        "psr-4": {
+            "Chargepoint\\RoxUsage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo Beal",
+            "email": "leonardo.beal@chargepoint.com"
+        }
+    ],
+    "require": {
+        "rollout/rox": "^4.8.1"
+    }
+}
