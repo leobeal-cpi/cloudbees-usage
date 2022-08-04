@@ -27,3 +27,7 @@ Follow the steps below to install and run the application.
 ```bash
     php index.php
 ```
+
+### Results
+
+![Alt text](screenshot.png?raw=true "Title")
